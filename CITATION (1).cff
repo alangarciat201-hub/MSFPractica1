@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica:Diseño de controladores'
+message: Modelado de Sistemas Fisiológicos/Ingeniería Biomedica
+type: software
+authors:
+  - given-names: Alan Omar
+    family-names: 'Garcia Toledo '
+    email: alan.garciat201@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/alangarciat201-hub/MSFPractica1'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/alangarciat201-hub/MSFPractica1'
+keywords:
+  - Diseño de controladores
+  - Circuito RLC
+  - Controlador PID
+  - Modelo Matematico
+  - Simulacion numerica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-24'
