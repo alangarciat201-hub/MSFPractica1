@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Sistema respiratorio simplificado'
+message: Modelado de Sistemas Fisiológicos/Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Alan Omar
+    family-names: Garcia Toledo
+    email: alan.garciat201@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico Naconal de Tijuana
+  - name: Alan Omar Garcia Toledo
+    city: Mexicali
+    location: México
+    region: Baja California
+    alias: Toledo
+    email: alan.garciat201@tectijuana.edu.mx
+    date-start: '2026-02-17'
+identifiers:
+  - type: url
+    value: 'https://github.com/alangarciat201-hub/MDSFPractica0'
+repository-code: 'https://github.com/alangarciat201-hub/MDSFPractica0'
+keywords:
+  - Sistema respiratorio
+  - Circuito RLC
+  - Controlador PID
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-17'
